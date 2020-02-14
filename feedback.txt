@@ -1,0 +1,9 @@
+Hello Aditya,
+
+Your hw3 is graded and your total grade is 8 + 3%(for deploying on emr)
+
+-1% for submitting after the first deadline
+-1% for missing concrete unit tests + missing clarity in simulation decisions(like buying/reinvesting)
+
+Regards,
+Mohammed Siddiq
